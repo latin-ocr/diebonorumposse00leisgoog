@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diebonorumposse00leisgoog/diebonorumposse00leisgoog_0786.png"; bbox 0 0 2706 4546; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 385 1330 887 1524">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 385 1330 887 1524">
+     <span class='ocr_line' id='line_1_1' title="bbox 385 1330 887 1524; baseline -0.004 -26"><span class='ocrx_word' id='word_1_1' title='bbox 385 1391 620 1524; x_wconf 50' lang='lat' dir='ltr'>&amp;sitm</span> <span class='ocrx_word' id='word_1_2' title='bbox 666 1386 815 1522; x_wconf 64' lang='grc' dir='ltr'>Μ).</span> <span class='ocrx_word' id='word_1_3' title='bbox 881 1330 887 1338; x_wconf 24' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 540 1637 693 1646">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 540 1637 693 1646">
+     <span class='ocr_line' id='line_1_2' title="bbox 540 1637 693 1646; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 540 1637 693 1646; x_wconf 66' lang='lat' dir='ltr'>-n—-n--n</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 128 1850 1072 2150">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 128 1850 1072 2150">
+     <span class='ocr_line' id='line_1_3' title="bbox 128 1850 1072 1968; baseline 0 -26"><span class='ocrx_word' id='word_1_5' title='bbox 128 1855 216 1942; x_wconf 58' lang='lat' dir='ltr'>§Me</span> <span class='ocrx_word' id='word_1_6' title='bbox 254 1851 529 1939; x_wconf 88' lang='lat' dir='ltr'>bonorum</span> <span class='ocrx_word' id='word_1_7' title='bbox 568 1850 875 1968; x_wconf 87' lang='lat' dir='ltr'>possessio</span> <span class='ocrx_word' id='word_1_8' title='bbox 913 1857 959 1944; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_9' title='bbox 996 1859 1072 1942; x_wconf 76' lang='lat' dir='ltr'>bet</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 354 1991 849 2150; baseline -0.012 -23"><span class='ocrx_word' id='word_1_10' title='bbox 354 2033 560 2147; x_wconf 60' lang='lat' dir='ltr'>[satem</span> <span class='ocrx_word' id='word_1_11' title='bbox 593 1991 849 2150; x_wconf 54' lang='lat' dir='ltr'>saifetgeitss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1358 4546">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1358 4546">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1358 4546; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1358 4546; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
